@@ -31,7 +31,7 @@
         
         %> 
     <script>   
-        alert("Record Updated");     
+        alert("Record Updatedd");     
     </script> 
     <%             
     }
