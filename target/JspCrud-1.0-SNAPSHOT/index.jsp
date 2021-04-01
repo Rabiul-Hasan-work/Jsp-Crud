@@ -27,7 +27,7 @@
         
         %> 
     <script>   
-        alert("Record Added");     
+        alert("Record Addeddd");     
     </script> 
     <%             
     }
